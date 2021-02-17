@@ -1,0 +1,27 @@
+
+    html {
+            scroll-behavior: smooth;
+        }
+
+        .navbar {
+            box-shadow: 2px 2px 2px 
+        }
+
+        footer {
+            box-shadow: -1px -1px 3px 
+        }
+
+        .struktur {
+            box-shadow: 2px 2px 2px  
+        }
+
+        #form {
+            box-shadow: -3px -3px 2px  
+        }
+        
+        #filosofi {
+            box-shadow: -3px -3px 2px  
+        }
+
+        
+
