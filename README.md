@@ -5,10 +5,10 @@ I have just learn html,css, then bootstrap. I try to make a website, hope you li
 
 
 ##### Home Page
-![Home Page](./preview/landing_page.png)
+![Home Page](./preview/landingpage.png)
 
 ##### Open Recruitment
-![Open Recruitment](./preview/open_recruitman.png)
+![Open Recruitment](./preview/openrecruitman.png)
 
 ##### Visi&Misi dan Sejarah
 ![Visi&Misi dan Sejarah](./preview/visi_sejarah.png)
