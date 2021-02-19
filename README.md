@@ -18,5 +18,3 @@ I have just learn html,css, then bootstrap. I try to make a website, hope you li
 ![Members](./preview/members.png)
 
 
-*note :
-please give the suggestion and criticize.
